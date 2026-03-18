@@ -1,0 +1,6 @@
+import numpy as np
+
+#2 numpy exercises 
+
+#a
+a = np.zeroes(10,1)

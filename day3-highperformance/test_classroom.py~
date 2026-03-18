@@ -1,0 +1,5 @@
+from classroom import Student, Teacher
+
+student = Student("erik", "Eriksson", "kemi")
+
+student.printNameSubject()

@@ -1,0 +1,11 @@
+
+from animals import Mammals, Birds, Fish
+
+
+
+myMammal = Mammals()
+myBird = Birds()
+myFish = Fish()
+
+myMammal.printMembers()
+myFish.printMembers()
