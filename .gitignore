@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*~
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local virtual environment at repository root.
+/venv/
